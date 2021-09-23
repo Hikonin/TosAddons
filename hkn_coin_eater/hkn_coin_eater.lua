@@ -1,6 +1,6 @@
 local addonName = 'hknCoinEater'
 local addonVersion = '1.0.0'
-local debug = true
+local debug = false
 
 local targets = {
     'misc_pvp_mine2',
