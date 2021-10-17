@@ -1,10 +1,1 @@
-[{
-    "name": "hknCoinEater",
-    "file": "hkn_coin_eater",
-    "extension": "ipf",
-    "fileVersion": "v1.0.0",
-    "releaseTag": "hknCoinEater-1.0.0",
-    "unicode": "⛄",
-    "description": "町に入ったとき自動的にコイン系アイテムを使用します",
-    "tags": []
-}]
+[]
